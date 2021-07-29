@@ -1,0 +1,2 @@
+# Analysis-of-Covid-19-and-fatality-prediction
+The objective of the project was to analyze the data and build a model to predict fatality in Covid-19 positive patient based on existing comorbidities of the patient. The dataset included details of 500k Mexican patients in the first wave of Covid-19. 4 different ML models and ANN model were built to get highest accuracy of 78% in general and 93% accuracy of predicting truly fatal cases.
